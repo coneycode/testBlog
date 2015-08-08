@@ -72,5 +72,6 @@ deploy:
 
 backup:
   type: git
+  themes: coney,landscape
   repository:
    github: git@github.com:coneycode/testBlog.git,master
